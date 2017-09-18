@@ -1,27 +1,25 @@
+
 @import
 url('https://fonts.googleapis.com/css?family=Lato:100,400,900');
- 
-.my-body {
-    background-color: #212121;
-    font-family: lato
+/*1. Change the background color to: #f3f3f3*/
+.my-body{
+    background-color: #f3f3f3;
 }
-.my-title {
-    font-size: 4rem;
-    font-weight: 900;
-    color: white
+.my-container{
+    border: 1px solid #aaa;
+    background-color: white;
+    max-width: 600px;
+    margin: 10px auto;
+    padding: 1rem;
+    box-shadow: 5px 5px 5px #aaa;
 }
-.my-subtitle {
-    font-size: 1.25rem;
-    font-weight: 400;
+.my-highlight{
     color: orangered;
-    background-color: white
+    text-decoration: overline;
+    font-size: 4rem;
 }
-.my-paragraph {
-    font-size: 3rem;
-    font-weight: 100;
-    color: white
-}
-
-.my-strong {
-    text-shadow: 2px 2px 0 orangered
+.my-hr{
+    width: 20%;
+    border: 10px solid orangered;
+    margin-left: 0;
 }
