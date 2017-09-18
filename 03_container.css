@@ -1,0 +1,27 @@
+@import
+url('https://fonts.googleapis.com/css?family=Lato:100,400,900');
+ 
+.my-body {
+    background-color: #212121;
+    font-family: lato
+}
+.my-title {
+    font-size: 4rem;
+    font-weight: 900;
+    color: white
+}
+.my-subtitle {
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: orangered;
+    background-color: white
+}
+.my-paragraph {
+    font-size: 3rem;
+    font-weight: 100;
+    color: white
+}
+
+.my-strong {
+    text-shadow: 2px 2px 0 orangered
+}
