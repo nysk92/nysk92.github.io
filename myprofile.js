@@ -30,8 +30,5 @@ $(function () {
         });
     
 
-        $('#close-id').click(function(){
-           
-        });
-    
+       
     });
