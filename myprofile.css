@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+.my-photo{
+    background-image: url("https://static.pexels.com/photos/220067/pexels-photo-220067.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+    background-position: 20% 50%;
+    opacity: 0.8;
+}
+
+.my-text{
+    color:#03054E;
+    font-family:"Oswald";
+    padding: 25px 35px;
+    background-image: url("https://lostandtaken.com/wp-content/uploads/edd/2016/02/scratched-and-scraped-metal-texture-12-1560x1170.jpg");
+}

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+.my-photo{
+    background-image: url("https://static.pexels.com/photos/220067/pexels-photo-220067.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+    background-position: 20% 50%;
+}
+
+.my-text{
+    color:#03054E;
+    font-family:"Oswald"; 
+}

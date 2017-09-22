@@ -1,0 +1,46 @@
+@import
+url('https://fonts.googleapis.com/css?family=Lato:100,400,900');
+
+.my-container{
+ border: 1px solid #aaa;
+ background-color: white;
+ max-width: 400px;
+ margin: 110px auto 10px auto;
+ padding: 1rem;
+ box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
+ font-family: "Lato";
+}
+.my-container h1{
+ text-align: center;
+}
+.my-container ul{
+ max-width: 200px;
+ margin: auto;
+} .my-hr{
+ max-width: 300px;
+ border: 10px solid orangered;
+}
+.my-face{
+ display: block;
+ width: 200px;
+ height: 200px;
+ margin: auto;
+ border-radius: 49%;
+ border: 1px solid #aaa;
+ margin-top: -100px;
+}
+.my-link{
+    font-weight: 900;
+    text-decoration: none;
+    color: black;
+}
+.my-link:hover, my-link:active{
+    font-weight: 1000;
+    color: white;
+    background-color: black;
+    padding-left: 1rem;
+}
+
+.my-body{
+ background-image: url('stripe_background.png');
+}
